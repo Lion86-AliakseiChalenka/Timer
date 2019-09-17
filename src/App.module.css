@@ -1,0 +1,19 @@
+.App {
+  display: grid;
+  grid-template-columns: 3fr 9fr;
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.productCard {
+  display: grid;
+  grid-template-columns: 3fr 9fr;
+}
+
+.productCard img{
+  width: 100px;
+}
+
+
+
+
